@@ -1,0 +1,3 @@
+person_id,person_source_value,year_of_birth,month_of_birth,day_of_birth,gender_concept_id,gender_source_value,race_concept_id,race_source_value
+1,p_001,1985,4,12,8507,M,8527,white
+2,p_002,1992,11,23,8532,F,8515,asian

@@ -1,0 +1,3 @@
+source_code,source_vocabulary,source_concept_id,target_concept_id,target_concept_name,target_domain
+254153009,SNOMED,436073,436073,Posttraumatic stress disorder,Condition
+F43.10,ICD10CM,45766186,436073,Posttraumatic stress disorder,Condition

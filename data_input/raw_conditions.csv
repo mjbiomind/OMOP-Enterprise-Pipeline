@@ -1,0 +1,3 @@
+START,STOP,PATIENT,ENCOUNTER,CODE,DESCRIPTION
+2024-01-10,2024-01-15,p_001,enc_101,254153009,Post-traumatic stress disorder
+2025-06-14,,p_002,enc_202,F43.10,Post-traumatic stress disorder unspecified
